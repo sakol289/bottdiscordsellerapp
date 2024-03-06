@@ -61,7 +61,7 @@ class App(nextcord.ui.Modal):
         await interaction.send("send",delete_after=0)
         # await self.message.edit(f"{self.app} {self.idlike} {self.Input_link.value} {self.Input_amount.value}",embed=None,view=None)
         await self.message.edit(content='[SELECT] กำลังตรวจสอบ',embed=None,view=None)
-        userdata = json.load(open(Config().Get()["configuserpath"], 'r', encoding='utf-8'))
+        userdata = json.load(open('./database/users.json', 'r', encoding='utf-8'))
         embed = nextcord.Embed()
         if (self.Input_amount.value.isnumeric()):
             if (str(interaction.user.id) in userdata):
@@ -89,7 +89,7 @@ class App(nextcord.ui.Modal):
                                 "description": f"auto {self.app['name']} price {price} name {self.app['name']}",
                                 "time": str(datetime.now()),
                             })
-                            json.dump(userdata, open(Config().Get()["configuserpath"], 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
+                            json.dump(userdata, open('./database/users.json', 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
                                 
                             embed.title = '``✅`` ซื้อสินค้าสำเร็จ'
                             embed.description = f'''บอทได้ส่งข้อมูลไปยังแชทส่วนตัวของคุณแล้ว\nยอดเงินคงเหลือ : `` {userdata[str(interaction.user.id)]["point"]} ``'''
