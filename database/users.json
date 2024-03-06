@@ -1,0 +1,91 @@
+{
+    "840473070598094849": {
+        "userId": 840473070598094849,
+        "point": 994.1000000000001,
+        "all-point": 1059,
+        "spend": 64.89999999999999,
+        "history": [
+            {
+                "type": "admin-add",
+                "amount": 10,
+                "time": "2024-03-05 13:45:17.214810"
+            },
+            {
+                "type": "buyapp",
+                "item": "idapp_8",
+                "price": 3.3,
+                "description": "auto Outlook แอคใหม่ price 3.3 name Outlook แอคใหม่",
+                "time": "2024-03-05 13:51:30.796205"
+            },
+            {
+                "type": "buyapp",
+                "item": "idapp_8",
+                "price": 3.3,
+                "description": "auto Outlook แอคใหม่ price 3.3 name Outlook แอคใหม่",
+                "time": "2024-03-05 13:53:38.352972"
+            },
+            {
+                "type": "buyapp",
+                "item": "idapp_8",
+                "price": 3.3,
+                "description": "auto Outlook แอคใหม่ price 3.3 name Outlook แอคใหม่",
+                "time": "2024-03-05 13:58:23.426348"
+            },
+            {
+                "type": "admin-add",
+                "amount": 10,
+                "time": "2024-03-05 13:58:51.326305"
+            },
+            {
+                "type": "buyapp",
+                "item": "idapp_8",
+                "price": 6.6,
+                "description": "auto Outlook แอคใหม่ price 6.6 name Outlook แอคใหม่",
+                "time": "2024-03-05 14:00:04.277094"
+            },
+            {
+                "type": "admin-add",
+                "amount": 18,
+                "time": "2024-03-05 14:15:01.137587"
+            },
+            {
+                "type": "buyapp",
+                "item": "idapp_15",
+                "price": 20.9,
+                "description": "auto Youtube  30 วัน price 20.9 name Youtube  30 วัน",
+                "time": "2024-03-05 14:15:18.991439"
+            },
+            {
+                "type": "admin-add",
+                "amount": 21,
+                "time": "2024-03-05 15:06:23.307775"
+            },
+            {
+                "type": "buyapp",
+                "item": "idapp_15",
+                "price": 20.9,
+                "description": "auto Youtube  30 วัน price 20.9 name Youtube  30 วัน",
+                "time": "2024-03-05 15:06:46.817379"
+            },
+            {
+                "type": "admin-add",
+                "amount": 1000,
+                "time": "2024-03-05 21:56:12.379011"
+            },
+            {
+                "type": "buyapp",
+                "item": "idapp_8",
+                "price": 3.3,
+                "description": "auto Outlook แอคใหม่ price 3.3 name Outlook แอคใหม่",
+                "time": "2024-03-05 22:17:49.770336"
+            },
+            {
+                "type": "buyapp",
+                "item": "idapp_8",
+                "price": 3.3,
+                "description": "auto Outlook แอคใหม่ price 3.3 name Outlook แอคใหม่",
+                "time": "2024-03-05 22:20:58.519785"
+            }
+        ]
+    }
+}

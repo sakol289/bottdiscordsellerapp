@@ -1,0 +1,23 @@
+{
+    "botToken": "",
+    "commnadPrefix": "!",
+    "serverId": "00000000000000000000",
+    "ownerIds": [
+        840473070598094849
+    ],
+    "channelTopupLog": "00000000000000000000",
+    "channelAppLog": "00000000000000000000",
+    "submitChannelId": "00000000000000000000",
+    "roleAddEnable": false,
+    "roleAddRoleId": "00000000000000000000",
+    "phoneNumber": "0000000000",
+    "embed": {
+        "imglogo": "https://cdn.discordapp.com/attachments/1119264367775600752/1200821343659241522/welcome_to_my_channel_1.gif?ex=65c79306&is=65b51e06&hm=c6c5f19294d93cfab72476602451fa6972ca34b7414c4d77b9370db6c9333e44&"
+    },
+    "configweb": {
+        "username": "username",
+        "password": "password",
+        "token": "",
+        "price_percentage": 10
+    }
+}
