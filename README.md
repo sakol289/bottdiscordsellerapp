@@ -4,7 +4,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-
+## สามารถสมัครเพื่อเอารหัสมาใส่ได้ที่ [https://store.cyber-safe.pro/](https://store.cyber-safe.pro/)
 ## ตั้งค่าส่วนต่างๆ
 ```json
 {
