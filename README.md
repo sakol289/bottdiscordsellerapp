@@ -66,12 +66,14 @@ python getall.py
 ```bash
 python main.py
 ```
+# หรือหากต้องการใช้งานบน replit สามารถใช้งานได้ที่
+https://replit.com/@sakol289/bottdiscordsellerapp
 
 # หากมีปัญหาติดต่อช่องทางได้ตามนี้
 
-FB : [cybersafe](https://fb.me/cybersafe01)
+## FB : [cybersafe](https://fb.me/cybersafe01)
 
-DISCORD : [cybersafe](https://cyber-safe.pro/discord)
+## DISCORD : [cybersafe](https://cyber-safe.pro/discord)
 
-WEB : [cybersafe](https://cyber-safe.pro)
+##  WEB : [cybersafe](https://cyber-safe.pro)
 
